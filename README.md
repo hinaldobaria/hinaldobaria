@@ -16,9 +16,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/hinal-dobaria-31b44b273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hinal-dobaria-31b44b273" height="30" width="40" /></a>
 </p>
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">🛠️ Languages and Tools:</h1>
 
-### 🛠️ Languages and Tools
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
