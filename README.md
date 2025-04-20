@@ -1,7 +1,9 @@
 <h1 align="left">💫 About Me:</h1>
+
 👋 I'm Hinal Dobaria.
- 
+
 👀 Passionate about AI/ML, Deep Learning, Python, and Full Stack (MERN) Development.
+
 🌱 I’m currently learning programming languages, ML related projects, fundamentals of deep learning and full(mern) stack developemnt.
 
 👨‍💻 All of my projects are available at [https://hinaldobaria.github.io/portfolio/](https://hinaldobaria.github.io/portfolio/)
