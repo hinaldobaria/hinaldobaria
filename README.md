@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hinal Dobaria</h1>
-<h3 align="center">Passionate about AI/ML, Deep Learning, Python, and Full Stack (MERN) Development.</h3>
+<h1 align="left">Hi 👋, I'm Hinal Dobaria</h1>
+<h3 align="left">Passionate about AI/ML, Deep Learning, Python, and Full Stack (MERN) Development.</h3>
 
 - 🌱 I’m currently learning **programming languages, ML related projects, fundamentals of deep learning and full(mern) stack developemnt.**
 
