@@ -1,6 +1,6 @@
 <h1 align="left">💫 About Me:</h1>
-👋 I'm Hinal Dobaria
-
+👋 I'm Hinal Dobaria.
+ 
 👀 Passionate about AI/ML, Deep Learning, Python, and Full Stack (MERN) Development.
 
 🌱 I’m currently learning programming languages, ML related projects, fundamentals of deep learning and full(mern) stack developemnt.
@@ -11,7 +11,7 @@
 
 📫 How to reach me hinaldobaria@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">🌐 Socials:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/hinal-dobaria-31b44b273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hinal-dobaria-31b44b273" height="30" width="40" /></a>
 </p>
